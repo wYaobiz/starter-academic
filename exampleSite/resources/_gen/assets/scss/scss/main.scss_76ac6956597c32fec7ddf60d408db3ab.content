@@ -8857,8 +8857,7 @@ ul.ul-edu li .description p.institution {
  *  People widget
  **************************************************/
 .people-widget {
-  font-size: 0.8rem;
-  text-align: center; }
+  font-size: 0.8rem;}
 
 .people-widget .portrait-title h2 {
   font-size: 1rem; }
