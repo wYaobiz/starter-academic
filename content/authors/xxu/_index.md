@@ -1,16 +1,17 @@
 ---
 # Display name
-title: Srujan Reddy Belaganti
+title: Dr. Xin Xu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master Students
+role: Associate Professor, Associate Dean (External Relations and Development),
+Faculty of Business, Director of Faculty of Business Digital Transformation Centre
 
 # Organizations/Affiliations
 organizations:
-- name: NJIT
+- name: Business School of HongKong Polytechnic University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -65,6 +66,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Collaborators
 ---
 
