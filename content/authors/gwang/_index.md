@@ -6,7 +6,7 @@ title: Dr. Grace Guiling Wang, CFA, PhD.
 superuser: false
 
 # Role/position
-role: Director
+role: Professor of Computer Science, Associate Dean for Research of the Yingwu College of Computing, Joint appointment with School of Management
 
 # Organizations/Affiliations
 organizations:
