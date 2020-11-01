@@ -38,6 +38,8 @@ subtitle = ""
   # Show user's interests? (true/false)
   show_interests = true
 
+  view = 3
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
