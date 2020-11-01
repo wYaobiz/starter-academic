@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Dr. Wei Zhi, PhD.
+title: Zhi Wei
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD. Professor of Computer Science
+role: Faculty
 
 # Organizations/Affiliations
 organizations:

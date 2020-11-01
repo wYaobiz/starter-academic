@@ -6,9 +6,7 @@ title: Guiling(Grace) Wang
 superuser: false
 
 # Role/position
-role: Professor of Computer Science
-Associate Dean for Research of the Yingwu College of Computing
-Joint appointment with School of Management
+role: Director
 
 # Organizations/Affiliations
 organizations:
