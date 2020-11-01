@@ -1,12 +1,14 @@
 ---
 # Display name
-title: Guiling(Grace) Wang
+title: Dr. Grace Guiling Wang, CFA, PhD.
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Director
+role: Professor of Computer Science
+Associate Dean for Research of the Yingwu College of Computing
+Joint appointment with School of Management
 
 # Organizations/Affiliations
 organizations:
@@ -68,4 +70,3 @@ user_groups:
 - Director
 ---
 
-Grace is currently a professor and the associate dean for research of Ying Wu College of Computing. She also holds a joint appointment at the Martin Tuchman School of Management. She joined NJIT in 2006 as an Assistant Professor and was promoted to full professor in 2016 in her 30s. She received her Ph.D. in Computer Science and Engineering and a minor in Statistics from The Pennsylvania State University in 2006. Her research in applied deep learning, blockchain technologies, intelligent transportation, and mobile computing has been highly recognized in the field and cited for over 4000 times by research articles according to Google Scholar.
