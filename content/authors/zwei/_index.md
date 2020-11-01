@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhi Wei
+title: Dr. Wei Zhi, PhD.
 
 # Is this the primary user of the site?
 superuser: false
