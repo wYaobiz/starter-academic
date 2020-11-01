@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Srujan Reddy Belaganti,
+title: Pelin Ayranci
 
 # Is this the primary user of the site?
 superuser: false
