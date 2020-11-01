@@ -19,16 +19,14 @@ subtitle = ""
 #                 "Administration",
 #                 "Visitors",
 #                 "Alumni"]
-  user_groups = ["Principal Investigators",
-                 "Researchers",
-                 "Grad Students",
-                 "Administration",
+  user_groups = ["Director",
+                 "Faculty",
+                 "PhD Students",
+                 "Master Students",
+                 "Collaborators",
                  "Visitors",
                  "Alumni",
-                 "Students",
-                 "Director",
-                 "Faculty",
-                 "Collaborators"]
+                 "Administration"]
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
