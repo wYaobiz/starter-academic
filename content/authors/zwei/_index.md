@@ -6,7 +6,7 @@ title: Zhi Wei
 superuser: false
 
 # Role/position
-role: Faculty
+role: Professor of Computer Science
 
 # Organizations/Affiliations
 organizations:
