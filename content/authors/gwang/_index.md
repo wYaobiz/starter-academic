@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guiling(Grace) Wang
+title: Dr. Grace Guiling Wang, CFA, PhD.
 
 # Is this the primary user of the site?
 superuser: false
