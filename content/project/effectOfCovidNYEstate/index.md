@@ -1,11 +1,6 @@
 ---
-title: The Effects of COVID-19 on the New York City Real Estate Markets
-summary: With the use of regression techniques, this project will predict the sales price of
-buildings in New York City. It will look at a number of different factors, including the
-effects of COVID-19 on the market, and how the building&#39;s dimensions and location
-influence the sales price. By doing so, we will gain a greater understanding of what areas
-of the New York City real estate market will be most impacted in the event of a
-pandemic.
+title: Effects of COVID-19 on NYC Real Estate Markets
+summary: The Effects of COVID-19 on the New York City Real Estate Markets
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
