@@ -10,8 +10,8 @@ role: Professor of Computer Science, Associate Dean for Research of the Yingwu C
 
 # Organizations/Affiliations
 organizations:
-- name: NJIT
-  url: ""
+- name: New Jersey Institute of Technology
+  url: "https://www.njit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -67,5 +67,6 @@ highlight_name: false
 user_groups:
 - Director
 ---
+Welcome to the Fintech Lab at New Jersey Institute of Technology.
 
 Grace is currently a professor and the associate dean for research of Ying Wu College of Computing. She also holds a joint appointment at the Martin Tuchman School of Management. She joined NJIT in 2006 as an Assistant Professor and was promoted to full professor in 2016 in her 30s. She received her Ph.D. in Computer Science and Engineering and a minor in Statistics from The Pennsylvania State University in 2006. Her research in applied deep learning, blockchain technologies, intelligent transportation, and mobile computing has been highly recognized in the field and cited for over 4000 times by research articles according to Google Scholar.
