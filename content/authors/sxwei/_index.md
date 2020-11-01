@@ -6,11 +6,11 @@ title: Dr. Steven X Wei
 superuser: false
 
 # Role/position
-role: Professor of Computer Science
+role: Associate professor of Finance, Deputy Director of AMTD FinTech Centre. Business School of HongKong Polytechnic University.
 
 # Organizations/Affiliations
 organizations:
-- name: NJIT
+- name: HongKong Polytechnic University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
