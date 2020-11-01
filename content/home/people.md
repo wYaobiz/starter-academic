@@ -26,8 +26,7 @@ subtitle = ""
                  "Collaborators",
                  "Visitors",
                  "Alumni",
-                 "Administration",
-                 "Lab"]
+                 "Administration"]
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
