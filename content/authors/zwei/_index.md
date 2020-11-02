@@ -6,12 +6,12 @@ title: Dr. Wei Zhi, PhD.
 superuser: false
 
 # Role/position
-role: Professor of Computer Science
+role: Professor & Associate Chair for Graduate Studies, Department of Computer Science, Ying Wu College of Computing 
 
 # Organizations/Affiliations
 organizations:
 - name: NJIT
-  url: ""
+  url: "www.njit.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
