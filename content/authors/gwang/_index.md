@@ -21,8 +21,7 @@ interests:
 - Artificial Intelligence
 - Blockchain
 
-education:
-[]
+[education:]
   # courses:
   # - course: PhD in Artificial Intelligence
   #   institution: Stanford University
