@@ -21,7 +21,7 @@ interests:
 - Artificial Intelligence
 - Blockchain
 
-education:
+[education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
@@ -31,7 +31,7 @@ education:
     year: 2009
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2008]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "guiling.wang@njit.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
