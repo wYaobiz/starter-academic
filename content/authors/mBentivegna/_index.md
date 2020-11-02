@@ -6,7 +6,7 @@ title: Mark Bentivegna
 superuser: false
 
 # Role/position
-role: Master Students
+role: Master Student
 
 # Organizations/Affiliations
 organizations:

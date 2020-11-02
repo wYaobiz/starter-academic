@@ -6,7 +6,7 @@ title: Sarvesh Shukla
 superuser: false
 
 # Role/position
-role: Master Students
+role: Master Student
 
 # Organizations/Affiliations
 organizations:

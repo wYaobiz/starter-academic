@@ -6,7 +6,7 @@ title: Pelin Ayranci
 superuser: false
 
 # Role/position
-role: Master Students
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
