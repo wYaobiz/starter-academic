@@ -11,15 +11,12 @@ role: Master Students
 # Organizations/Affiliations
 organizations:
 - name: NJIT
-  url: ""
+  url: "www.njit.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Bioinformatics
-- Information Retrieval
 
 education:
   courses:
