@@ -1,6 +1,7 @@
 ---
 title: Cryptocurrency
-summary: Cryptocurrency
+summary: Deep Learning Based Community Detection Model for Bitcoin De-Anonymization
+
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -30,4 +31,4 @@ url_video: ""
 slides: example
 ---
 
-Cryptocurrency.
+Bitcoin is a kind of decentralized cryptocurrency builds on a peer-to-peer network. Anonymity mechanism makes it be widely used in online payment. However, it is also abused in ransomware andmoney laundering, which limits its further application and development. The project aims to use deep learning to classify the Bitcoin addresses and further identify the user behaviors.
