@@ -38,7 +38,7 @@ subtitle = ""
   # Show user's interests? (true/false)
   show_interests = true
 
-  view = 3
+  view = 5
 
 [design.background]
   # Apply a background color, gradient, or image.
