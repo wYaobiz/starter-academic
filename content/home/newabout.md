@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: https://businessnc.com/wp-content/uploads/2019/05/fintech_gettyimages-998250548.jpg
+    image: (https://businessnc.com/wp-content/uploads/2019/05/fintech_gettyimages-998250548.jpg)
     image_darken: 0.6
     image_parallax: true
     image_position: center
