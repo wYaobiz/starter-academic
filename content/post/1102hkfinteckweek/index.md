@@ -1,10 +1,10 @@
 ---
-title: Hongkong Fintech Week
-date: 2019-07-12
+title: Hong kong Fintech Week
+date: 2020-11-01
 math: false
 diagram: false
 image:
   placement: 2
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
-# [Hongkong Fintech Week](https://www.fintechweek.hk/)
+# [Hong kong Fintech Week](https://www.fintechweek.hk/)
