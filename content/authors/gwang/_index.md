@@ -18,8 +18,11 @@ bio:
 
 interests:
 - Fintech
+- Applied deep learning and machine learning
 - Machine Learning
-- Blockchain
+- Blockchain technologies
+- Mobile computing and IoT
+- Intelligent transportation Systems
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
