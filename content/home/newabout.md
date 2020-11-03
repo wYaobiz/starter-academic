@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 1
 
-title: About us
+title: NJIT Fintech Lab
 subtitle:
 
 #design:
@@ -28,5 +28,6 @@ subtitle:
 #    padding: ["20px", "0", "20px", "0"]
 ---
 
-Welcome to the Fintech Lab of NJIT.
+Welcome to the Fintech Lab at New Jersey Institute of Technology.
 
+Our research focuses on three broad areas: (i) **fintech**: the technology and innovation that aims to compete with traditional financial methods in the delivery of financial services, (ii) **machine learning**: the study of computer algorithms that improve automatically through experience, and (iii) **blockchain**: a decentralized, distributed ledger that records the provenance of a digital asset.
