@@ -17,6 +17,9 @@ organizations:
 bio: 
 
 interests:
+- Fintech
+- Machine Learning
+- Blockchain
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
