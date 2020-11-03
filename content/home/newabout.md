@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: fintech_image.jpg
+    image: fintech.jpg
     image_darken: 0.6
     image_parallax: true
     image_position: center
