@@ -16,13 +16,25 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- Fintech
-- Applied deep learning and machine learning
-- Machine Learning
-- Blockchain technologies
-- Mobile computing and IoT
-- Intelligent transportation Systems
+# interests:
+# - Fintech
+# - Applied deep learning and machine learning
+# - Machine Learning
+# - Blockchain technologies
+# - Mobile computing and IoT
+# - Intelligent transportation Systems
+
+# education:
+#   courses:
+#   - course: PhD in Artificial Intelligence
+#     institution: Stanford University
+#     year: 2012
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
+#   - course: BSc in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -60,3 +72,11 @@ user_groups:
 ---
 
 Grace is currently a professor and the associate dean for research of Ying Wu College of Computing. She also holds a joint appointment at the Martin Tuchman School of Management. She joined NJIT in 2006 as an Assistant Professor and was promoted to full professor in 2016 in her 30s. She received her Ph.D. in Computer Science and Engineering and a minor in Statistics from The Pennsylvania State University in 2006. Her research in applied deep learning, blockchain technologies, intelligent transportation, and mobile computing has been highly recognized in the field and cited for over 4000 times by research articles according to Google Scholar.
+
+**Interests**:
+- Fintech
+- Applied deep learning and machine learning
+- Machine Learning
+- Blockchain technologies
+- Mobile computing and IoT
+- Intelligent transportation Systems
