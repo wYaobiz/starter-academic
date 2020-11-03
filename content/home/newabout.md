@@ -28,7 +28,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Welcome to the demo of the **resumé template** for Academic.
+<!-- Welcome to the demo of the **resumé template** for Academic.
 
 [View more templates](https://sourcethemes.com/academic/templates/) for Academic.
 
@@ -40,7 +40,7 @@ Welcome to the demo of the **resumé template** for Academic.
 This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
 
 Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
+{{% /alert %}} -->
 
 
 Welcome to the Fintech Lab at New Jersey Institute of Technology.
