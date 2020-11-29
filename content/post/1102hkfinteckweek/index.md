@@ -7,4 +7,4 @@ image:
   placement: 2
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
-# [Hong kong Fintech Week](https://www.fintechweek.hk/)
+# [Hong Kong Fintech Week](https://www.fintechweek.hk/)
