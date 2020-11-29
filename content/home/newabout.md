@@ -13,12 +13,12 @@ headless: true
 weight: 1
 
 title: NJIT Fintech Lab
-subtitle:
+subtitle: 
 
 design:
   columns: "1"
   background:
-    image: fintech.jpg
+    image: fintbg.jpg
     image_darken: 0.6
     image_parallax: true
     image_position: center
