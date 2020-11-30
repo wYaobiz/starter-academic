@@ -6,7 +6,7 @@ title: Jingyi Gu
 superuser: false
 
 # Role/position
-role: PhD Student
+role: 
 
 # Organizations/Affiliations
 organizations:

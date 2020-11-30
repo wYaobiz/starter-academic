@@ -45,4 +45,4 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 
 Welcome to the Fintech Lab at New Jersey Institute of Technology.
 
-Our research focuses on three broad areas: (i) **fintech**: the technology and innovation that aims to compete with traditional financial methods in the delivery of financial services, (ii) **machine learning**: the study of computer algorithms that improve automatically through experience, and (iii) **blockchain**: a decentralized, distributed ledger that records the provenance of a digital asset.
+<!-- Our research focuses on three broad areas: (i) **fintech**: the technology and innovation that aims to compete with traditional financial methods in the delivery of financial services, (ii) **machine learning**: the study of computer algorithms that improve automatically through experience, and (iii) **blockchain**: a decentralized, distributed ledger that records the provenance of a digital asset. -->

@@ -6,7 +6,7 @@ title: Sabri Rafi
 superuser: false
 
 # Role/position
-role: Master Student
+role:
 
 # Organizations/Affiliations
 organizations:

@@ -6,7 +6,7 @@ title: Srujan Reddy Belaganti
 superuser: false
 
 # Role/position
-role: Master Student
+role: 
 
 # Organizations/Affiliations
 organizations:

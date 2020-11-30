@@ -6,7 +6,7 @@ title: Junyi Ye
 superuser: false
 
 # Role/position
-role: PhD Student
+role: 
 
 # Organizations/Affiliations
 organizations:
