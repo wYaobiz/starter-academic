@@ -29,8 +29,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Leveraging the latest advancements in deep learning, I am applying CNNs to financial
-markets to predict volatility and stock market direction. Combining historical pricing
-data, sector performance, institutional recommendations and holdings, and macro
-trends I am building out LSTM networks to identify trends and predict future
-performance.
+Leveraging the latest advancements in deep learning, CNNs is applied to financial markets to predict volatility and stock market direction. Combining historical pricing data, sector performance, institutional recommendations and holdings, and macro trends, LSTM networks are built out to identify trends and predict future performance.
