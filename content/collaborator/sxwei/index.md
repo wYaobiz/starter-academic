@@ -3,9 +3,8 @@
 title: Dr. Steven X Wei
 
 Summary: | 
-        - Associate professor of Finance, 
-        - Deputy Director of AMTD FinTech Centre, 
-        - Business School of HongKong Polytechnic University.
+        - Deputy Director, AMTD FinTech Centre
+        - Associate professor, Faculty of Business
 
 weight: 1
 ---
