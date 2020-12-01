@@ -30,12 +30,12 @@
 
 <div class="col-lg-12 project-item isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
   <div class="row align-items-center">
-    <div class="col-12 col-md-6">
-      <h3 class="article-title mb-0 mt-0">
+    <div class="col-12 col-md-8">
+      <h2 class="article-title mb-0 mt-0">
         {{- if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end -}}
         {{ $item.Title | markdownify | emojify }}
         {{- if $do_link}}</a>{{end -}}
-      </h3>
+      </h2>
 
       {{ with $summary }}
       <div class="article-style">
@@ -48,7 +48,7 @@
       </div>
 
     </div>
-    <div class="col-12 col-md-6 order-first {{$order}}">
+    <div class="col-12 col-md-4 order-first {{$order}}">
       {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
       {{ with $resource }}
       {{ $filters := slice (images.GaussianBlur 21) (images.Pixelate 8) }}
