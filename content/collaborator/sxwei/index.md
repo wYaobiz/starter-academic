@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Steven X Wei
+title: Dr. Steven X Wei, PhD.
 
 Summary: | 
         - Deputy Director, AMTD FinTech Centre

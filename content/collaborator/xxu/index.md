@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Xin Xu
+title: Dr. Xin Xu, PhD.
 
 
 # Role/position
