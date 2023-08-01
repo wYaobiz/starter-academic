@@ -1,5 +1,5 @@
 ---
-title: Alon Lerner, the undergraduate research assistant of Prof. Grace Wang, graduated in May and joined Bank of America.
+title: Jingyi Gu, a Ph.D. student of Prof. Grace Wang, obtained the Excellence in Teaching Award as a Teaching Assistant. 
 date: 2023-05-01
 math: false
 diagram: false
