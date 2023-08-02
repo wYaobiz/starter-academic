@@ -3,11 +3,11 @@
 
 title: "St-trader: A spatial-temporal deep neural network for modeling stock market movement"
 authors: ["Xiurui Hou", "Kai Wang", "Cheng Zhong", "Zhi Wei"]
-date: 2023-07-04T10:48:23-04:00
+date: 2021-04-05
 doi: "10.1109/jas.2021.1003976"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-07-04T10:48:23-04:00
+publishDate: 2021-04-05
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
