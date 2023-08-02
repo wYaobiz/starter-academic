@@ -5,7 +5,7 @@ title: "Safelight: A reinforcement learning method toward collision-free traffic
 authors: ["Wenlu Du", "Junyi Ye", "Jingyi Gu", "Jing Li", "Hua Wei", "Zhenyu Yan"]
 
 date: 2023-06-26
-# doi: "10.1109/TNNLS.2018.2870573"
+doi: "10.1109/TNNLS.2018.2870573"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: date: 2023-06-26
