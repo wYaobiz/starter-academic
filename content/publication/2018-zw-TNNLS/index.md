@@ -5,7 +5,7 @@ title: "A deep learning approach to competing risks representation in peer-to-pe
 authors: ["Fei Tan", "Xiurui Hou", "Jie Zhang", "Zhi Wei", "Zhenyu Yan"]
 
 date: 2018-10-10T10:48:23-04:00
-doi: "10.1109/TNNLS.2018.2870573"
+# doi: "10.1109/TNNLS.2018.2870573"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2018-10-10T10:48:23-04:00
