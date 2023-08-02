@@ -4,7 +4,7 @@
 title: "Machine Learning for Earnings Prediction: A Nonlinear Tensor Approach for Data Integration and Completion"
 authors: ["Ajim Uddin", "Xinyuan Tao", "Chia-Ching Chou", "Dantong Yu"]
 date: 2022-10-26T10:48:23-04:00
-doi: "10.1145/3533271.3561677"
+# doi: "10.1145/3533271.3561677"
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-10-26T10:48:23-04:00
 
