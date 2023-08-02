@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "SafeLight: A Reinforcement Learning Method toward Collision-Free Traffic Signal Control"
-authors: ["Fei Tan", "Xiurui Hou", "Jie Zhang", "Zhi Wei", "Zhenyu Yan"]
+authors: ["Wenlu Du", "Junyi Ye", "Jingyi Gu", "Jing Li", "Hua Wei", "Guiling Wang"]
 
 date: 2023-06-26T10:48:23-04:00
 # doi: "10.1109/TNNLS.2018.2870573"
