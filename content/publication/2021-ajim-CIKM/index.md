@@ -4,7 +4,7 @@
 title: "Attention Based Dynamic Graph Learning Framework for Asset Pricing"
 authors: ["Ajim Uddin", "Xinyuan Tao", "Dantong Yu"]
 date: 2021-10-30T10:48:23-04:00
-doi: "10.1145/3459637.3482413"
+# doi: "10.1145/3459637.3482413"
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-10-30T10:48:23-04:00
 
