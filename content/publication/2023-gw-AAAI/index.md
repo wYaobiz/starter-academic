@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A deep learning approach to competing risks representation in peer-to-peer lending"
+title: "SafeLight: A Reinforcement Learning Method toward Collision-Free Traffic Signal Control"
 authors: ["Fei Tan", "Xiurui Hou", "Jie Zhang", "Zhi Wei", "Zhenyu Yan"]
 
 date: 2023-06-26T10:48:23-04:00
@@ -17,8 +17,8 @@ publishDate: 2023-06-26T10:48:23-04:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2018 IEEE Transactions on Neural Networks and Learning Systems"
-publication_short: "TNNLS 2018"
+publication: "2023 the AAAI Conference on Artificial Intelligence"
+publication_short: "AAAI 2023"
 
 abstract: "Online peer-to-peer (P2P) lending is expected to benefit both investors and borrowers due to their low transaction cost and the elimination of expensive intermediaries. From the lenders' perspective, maximizing their return on investment is an ultimate goal during their decision-making procedure. In this paper, we explore and address a fundamental problem underlying such a goal: how to represent the two competing risks, charge-off and prepayment, in funded loans. We propose to model both potential risks simultaneously, which remains largely unexplored until now. We first develop a hierarchical grading framework to integrate two risks of loans both qualitatively and quantitatively. Afterward, we introduce an end-to-end deep learning approach to solve this problem by breaking it down into multiple binary classification subproblems that are amenable to both feature representation and risks learning. Particularly, we leverage deep neural networks to jointly solve these subtasks, which leads to the in-depth exploration of the interaction involved in these tasks. To the best of our knowledge, this is the first attempt to characterize competing risks for loans in P2P lending via deep neural networks. The comprehensive experiments on real-world loan data show that our methodology is able to achieve an appealing investment performance by modeling the competition within and between risks explicitly and properly. The feature analysis based on saliency maps provides useful insights into payment dynamics of loans for potential investors intuitively."
 
