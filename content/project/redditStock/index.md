@@ -1,6 +1,6 @@
 ---
 title: 'HODL: The Hold of Reddit Over the Stock Market'
-summary: This study uses a tailored BERT-based sentiment analysis to examine the impact of Reddit's WallStreetBets community on the stock market.
+summary: Analyzing the impact of Reddit’s WallStreetBets on the stock market using Transformer based models. 
 
 tags:
 - Deep Learning
